@@ -43,3 +43,15 @@
 ---
 
 **GG // Security Applications** · Ferramentas defensivas, evidências verificáveis e documentação objetiva.
+
+
+## 🔧 Qualidade, segurança e evolução
+
+[![Static quality checks](https://github.com/geovanniandrade/GG-OSINT-Intelligence-Platform/actions/workflows/quality.yml/badge.svg)](https://github.com/geovanniandrade/GG-OSINT-Intelligence-Platform/actions/workflows/quality.yml)
+
+- [Política de segurança](SECURITY.md)
+- [Histórico de mudanças](CHANGELOG.md)
+- [Plano de engenharia e critérios para 1.0](docs/engineering.md)
+- [Workflow e testes](.github/workflows/quality.yml)
+
+**Status atual:** MVP em validação. O workflow verifica aspectos estáticos e não comprova funcionamento corporativo ou homologação.
