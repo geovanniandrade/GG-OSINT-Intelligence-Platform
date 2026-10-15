@@ -1,0 +1,21 @@
+{
+  "demo": true,
+  "indicator": "example.com",
+  "nodes": [
+    {
+      "label": "example.com",
+      "type": "domínio",
+      "source": "Fictício"
+    },
+    {
+      "label": "192.0.2.10",
+      "type": "IP",
+      "source": "Reservado para documentação"
+    },
+    {
+      "label": "www.example.com",
+      "type": "subdomínio",
+      "source": "Fictício"
+    }
+  ]
+}
